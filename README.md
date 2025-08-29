@@ -201,7 +201,6 @@ npm run test:watch
 ```
 📦 fullstack-rest-api/
 ├── 🐳 Dockerfile                   # Docker configuration
-├── 📄 docker-compose.yml           # Docker Compose setup
 ├── 📄 server.js                    # Express server entry point
 ├── 📄 package.json                 # Project dependencies
 ├── 📄 .dockerignore                # Docker ignore rules
@@ -212,13 +211,8 @@ npm run test:watch
 │   └── 📄 bfhlController.js       # Business logic & algorithms
 ├── 📂 config/
 │   └── 📄 config.js               # Environment configuration
-├── 📂 middleware/
-│   └── 📄 validation.js           # Request validation
 ├── 📂 tests/
 │   ├── 📄 bfhl.test.js            # Unit tests
-│   └── 📄 integration.test.js     # Integration tests
-└── 📂 docs/
-    └── 📄 api-spec.json           # OpenAPI specification
 ```
 
 ## 🛠️ Development Scripts
