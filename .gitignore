@@ -39,10 +39,6 @@ build/
 .next/
 out/
 
-# Docker
-Dockerfile
-.dockerignore
-
 # Misc
 *.pid
 *.seed
