@@ -394,22 +394,8 @@ rm -rf node_modules package-lock.json
 npm install
 ```
 
-## 📞 Support
-
-- **API Issues**: Check [Render Status](https://status.render.com/)
-- **Local Development**: Ensure Node.js v14+ is installed
-- **Docker Issues**: Verify Docker daemon is running
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 <div align="center">
 
 **🌟 Star this repository if you found it helpful!**
-
-Made with ❤️ for modern web development
 
 </div>
