@@ -212,7 +212,7 @@ npm run test:watch
 ├── 📂 config/
 │   └── 📄 config.js               # Environment configuration
 ├── 📂 tests/
-│   ├── 📄 bfhl.test.js            # Unit tests
+     ── 📄 bfhl.test.js            # Unit tests
 ```
 
 ## 🛠️ Development Scripts
