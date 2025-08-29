@@ -15,7 +15,6 @@ app.use('/bfhl', bfhlRouter);
 app.get('/', (req, res) => {
   res.status(200).json({
     message: 'Full Stack REST API',
-    version: '1.0.0',
     endpoints: {
       'POST /bfhl': 'Process array data and return categorized results'
     }
